@@ -71,12 +71,3 @@ I therefore made predictions using the predictor varibles to see how well the mo
 We can see from the above scatter plot that our model made a good predictions as the values of the actual mpg and the predicted mpg are very close to each other.We can confidently say that we have succeeded in training a model that predicts the Mileage Per Gallon (mpg) of a car given the acceleration,model,origin and the horsepower of a car.
 
 
-By: Prince Owusu
-
-Year 3 Statistics student at the Kwame Nkrumah University of Science and Technology.
-
-email: [powusu381@gmail.com](powusu381@gmail.com)
-
-twitter: [@iam_kwekhu](https://twitter.com/iam_kwekhu)
-
-date: Saturday 28th September,2019
